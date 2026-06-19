@@ -1,5 +1,3 @@
-# Weather_Assistant_AI_Agent
-
 # 🌦️ Weather Alert Assistant
 
 An AI-powered weather monitoring and notification system built using the OpenAI Agents SDK. The assistant analyzes real-time weather conditions, identifies abnormal or severe weather events, and automatically sends personalized email alerts to users.
